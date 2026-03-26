@@ -14,8 +14,8 @@
             <Country>USA</Country>
         </Location>
     </Vehicle>
-        <VIN>1HGCM82633A123456</VIN>
-        <StockNumber>STK-10025</StockNumber>
+        <VIN>1HGCM82633A123789</VIN>
+        <StockNumber>STK-10024</StockNumber>
         <Make>Toyota</Make>
         <Model>Corolla</Model>
         <Mileage>45210</Mileage>
@@ -27,8 +27,8 @@
             <Country>USA</Country>
         </Location>
     </Vehicle>
-        <VIN>1HGCM82633A123456</VIN>
-        <StockNumber>STK-10025</StockNumber>
+        <VIN>1HGCM82633A123123</VIN>
+        <StockNumber>STK-10026</StockNumber>
         <Make>Toyota</Make>
         <Model>Corolla</Model>
         <Mileage>45210</Mileage>
