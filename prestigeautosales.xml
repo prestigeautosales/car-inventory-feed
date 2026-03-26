@@ -1,1 +1,43 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Inventory>
+    <Vehicle>
+        <VIN>1HGCM82633A123456</VIN>
+        <StockNumber>STK-10025</StockNumber>
+        <Make>Toyota</Make>
+        <Model>Corolla</Model>
+        <Mileage>45210</Mileage>
+        <Year>2020</Year>
+        <DateOfPurchase>2024-11-15</DateOfPurchase>
+        <Location>
+            <City>Bakersfield</City>
+            <State>CA</State>
+            <Country>USA</Country>
+        </Location>
+    </Vehicle>
+        <VIN>1HGCM82633A123456</VIN>
+        <StockNumber>STK-10025</StockNumber>
+        <Make>Toyota</Make>
+        <Model>Corolla</Model>
+        <Mileage>45210</Mileage>
+        <Year>2020</Year>
+        <DateOfPurchase>2024-11-15</DateOfPurchase>
+        <Location>
+            <City>Bakersfield</City>
+            <State>CA</State>
+            <Country>USA</Country>
+        </Location>
+    </Vehicle>
+        <VIN>1HGCM82633A123456</VIN>
+        <StockNumber>STK-10025</StockNumber>
+        <Make>Toyota</Make>
+        <Model>Corolla</Model>
+        <Mileage>45210</Mileage>
+        <Year>2020</Year>
+        <DateOfPurchase>2024-11-15</DateOfPurchase>
+        <Location>
+            <City>Bakersfield</City>
+            <State>CA</State>
+            <Country>USA</Country>
+        </Location>
+    </Vehicle>
+</Inventory>
